@@ -1,0 +1,317 @@
+body {
+  font-family: Roboto;
+  font-size: 18px;
+  line-height: 22px;
+  color: black;
+}
+html {
+  box-sizing: border-box;
+}
+*, *::before, *::after{
+  box-sizing: border-box;
+}
+.wrapper
+{
+  max-width: 940px;
+  margin: 0 auto;
+}
+.header__wrapper
+{
+  display: flex;
+  flex-wrap: wrap;
+  
+  justify-content: center;
+  padding-top: 33px;
+  height: 770px;
+}
+.header__list
+{
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  border-bottom:  1px solid #828282;
+  padding-bottom: 32px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.header_item
+{
+  margin-right: 155px;
+}
+.header_item:last-child {
+  margin-right: 0px;
+}
+.header_link
+{
+font-size: 18px;
+line-height: 22px;
+color: #828282;
+text-decoration: none;
+
+
+}
+.black1
+{
+
+  color: black;
+}
+
+
+.header_item:first-child {
+  margin-left: 0px;
+}
+.MarginRight 
+{
+  margin-right: 10px;
+}
+ul
+{
+  margin-left:  0px;
+}
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.Denis{  
+ 
+display: inline-block;
+width: 123.51px;
+height: 118.17px;
+font-family: Roboto;
+font-size: 47.3392px;
+line-height: 59px;
+font-weight: bold;
+margin-top: 30px;
+color: #070707;
+}
+.disignerUx
+{
+  width: 155.65;
+  height: 44.06;
+  font-size: 18px;
+line-height: 22px;
+font-family: Roboto;
+font-weight: 270;
+color: #070707;
+margin-top: 83px;
+}
+
+.FakeContainerV2
+{
+  display: flex;
+  justify-content: space-between;
+}
+.FakeContainerV3
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 940px;
+  align-items: flex-end;
+}
+
+.RuEng
+{
+transform: rotate(-90deg);
+}
+.FakeContainerV4
+{
+  margin-bottom: 25px;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Roboto;
+}
+.RUGov
+{
+  color: #828282;
+}
+.imgDyra
+{
+  margin-top: 35px;
+}
+
+.seregaSeriy
+{
+  height: 506px;
+  width: 100%;
+  background: #F6F6F6;
+}
+.AboutMe
+{
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+  font-family: Roboto;
+  padding-top: 120px;
+}
+.TextTypoi
+{
+ font-size: 18px;
+line-height: 22px;
+text-align: center;
+font-family: Roboto;
+padding-top: 18px;
+}
+.BeliyBG
+{
+  height: 610px;
+}
+.skilltext
+{
+  font-size: 34px;
+line-height: 42px;
+font-family: Roboto;
+text-align: center;
+padding-top: 91px;
+
+}
+.iwork
+{
+font-size: 18px;
+line-height: 22px;
+font-family: Roboto;
+text-align: center;
+padding-top: 69px;
+}
+.ContainerDlafsex
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 940px;
+  margin:auto;
+  margin-top: 87px;
+}
+.PhotoShopRamka
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.AdobPhoto
+{
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  font-family: Roboto;
+  color: #828282;
+  margin-top: 28px;
+  margin-bottom: 41px;
+}
+.seregaSeriy2
+{
+  height: 2253px;
+  width: 100%;
+  background: #F6F6F6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+.Portfoliotext
+{
+  font-size: 34px;
+line-height: 42px;
+font-family: Roboto;
+text-align: center;
+color: #070707;
+padding-top: 113px;
+}
+.Kartinka1
+{
+  
+  margin-top: 45px;
+  
+}
+.magictext
+{
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+text-decoration-line: underline;
+font-family: Roboto;
+color: #070707;
+padding-top: 45px;
+}
+.Kartinka2
+{
+  
+  margin-top: 100px;
+  
+}
+.Kartinka3
+{
+  
+  margin-top: 100px;
+  
+}
+.magictext2
+{
+  padding-top: 45px;
+  padding-bottom: 95px;
+  font-size: 18px;
+line-height: 22px;
+text-align: center;
+text-decoration-line: underline;
+color: #070707;
+}
+.LastWhiteChena
+{
+  height: 622px;
+  width: 100%;
+  color: white;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+}
+.Contactstext
+{
+  padding-top: 115px;
+  font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+     font-family: Roboto;
+     color: black;
+}
+
+.Contactstext2{  
+padding-top: 20px;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #070707;
+}
+button 
+{
+  margin-top: 29px;
+  border-radius: 25px;
+  background: #070707;
+  color: white;
+  width: 180px;
+  height: 42px;
+  font-family: Roboto;
+}
+.icon4
+{
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 342px;
+  margin: auto;
+  margin-top: 80px;
+}
+.lasttext
+{
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+font-family: Roboto;
+color: #828282;
+margin-bottom: 130px;
+}
